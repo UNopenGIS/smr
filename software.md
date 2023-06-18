@@ -18,6 +18,10 @@
 - nginx
 - Apache
 - tileserver-gl
+- PostGIS / PostgreSQL
+- iD
+- GeoServer
+- GeoNode
 
 ## CLI
 - GDAL/OGR
