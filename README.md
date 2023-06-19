@@ -1,8 +1,8 @@
 # smr
 Smart Maps Resources
 
-- [data.md](data.md)
-- [software.md](software.md)
-- [mapping.md](mapping.md)
-- [spec.md](spec.md)
+- [data](data.md)
+- [software](software.md)
+- [mapping](mapping.md)
+- [spec](spec.md)
 - [hardware](hardware.md)
