@@ -5,3 +5,4 @@ Smart Maps Resources
 - [software.md](software.md)
 - [mapping.md](mapping.md)
 - [spec.md](spec.md)
+- [hardware](hardware.md)
